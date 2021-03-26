@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="./images/Logo.png">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <title>Login</title>
+</head>
+<style>
+  .box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .box div {
+    width: 300px;
+    height: 100px;
+  }
+
+  .box2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .box2 div {
+    width: 300px;
+
+  }
+
+  .margin {
+    margin-top: 17%;
+  }
+</style>
+
+<body>
+  <center>
+    <div class="margin">
+      <div class="card" style="width: 20rem;height: 15rem; border: solid 1 px;  border-color : rgb(0, 0, 0)  ">
+        <div class="card-body">
+          <div class="box2">
+            <div style=" margin-top: 2% ">
+              <h1 style="color: green;">Login Form</h1>
+            </div>
+          </div>
+          <div class="box">
+            <div>
+              <form action="http://127.0.0.1:3000/MainMenu" method="POST" onsubmit="validate()">
+                Email: <input type="email" id="email" name="email" / style="margin-left: 33px; margin-bottom: 10px;"><br />
+                Password: <input type="password" id="password" name="password" / style="margin-left: 6px; margin-bottom: 10px"><br />
+                <input type="submit" value="SUBMIT" class="btn btn-success" / style="margin-right: 10%;">
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </center>
+</body>
+<script>
+
+  function validate() {
+    var email = document.getElementById("email");
+    var pass = document.getElementById("password");
+    if (email.value == '' || pass.value == '') {
+      alert("กรุณากรอกข้อมูลให้ถูกต้อง");
+    }
+  }
+</script>
+</html>

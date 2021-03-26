@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Potter",
+    "age": 17,
+    "member": "Yes",
+    "movie": "Harry Potter",
+    "email": "thia@gmail.com",
+    "password": "@1234ww"
+  },
+  {
+    "id": 2,
+    "name": "Dominic Toretto",
+    "age": 40,
+    "member": "Yes",
+    "movie": "The Fast",
+    "email": "dom@gmail.com",
+    "password": "@1234ww"
+  },
+  {
+    "id": 3,
+    "name": "Perseus Jackson",
+    "age": 17,
+    "member": "No",
+    "movie": "Percy Jackson",
+    "email": "perseus@gmail.com",
+    "password": "@1234ww"
+  },
+  {
+    "id": 4,
+    "name": "Pisitpong Narttammakul",
+    "age": 18,
+    "member": "No",
+    "movie": "Dog",
+    "email": "pisitpong@gmail.com",
+    "password": "@1234ww"
+  },
+  {
+    "id": 5,
+    "name": " Barnes Naza",
+    "age": 26,
+    "member": "Yes",
+    "movie": "Captain",
+    "email": "barnes@gmail.com",
+    "password": "@1234ww"
+  },
+  {
+    "id": 6,
+    "name": "Tao Naza",
+    "age": 17,
+    "member": "Yes",
+    "movie": "Riverdata",
+    "email": "tao@gmail.com",
+    "password": "@1234ww"
+  },
+  {
+    "id": 7,
+    "name": "Mafoy River",
+    "age": 18,
+    "member": "No",
+    "movie": "Football",
+    "email": "mafoy@gmail.com",
+    "password": "@1234ww"
+  },
+  {
+    "id": 8,
+    "name": "M k",
+    "age": 16,
+    "member": "No",
+    "movie": "Mafia Spain",
+    "email": "mk@gmail.com",
+    "password": "@1234ww"
+  },
+  {
+    "id": 9,
+    "name": "Newbie Bibi",
+    "age": 30,
+    "member": "Yes",
+    "movie": "FantasticWorld",
+    "email": "new@gmail.com",
+    "password": "@1234ww"
+  },
+  {
+    "id": 10,
+    "name": "Rolgers Tao",
+    "age": 27,
+    "member": "Yes",
+    "movie": "Captain Thailand",
+    "email": "rol@gmail.com",
+    "password": "@1234ww"
+  }
+]

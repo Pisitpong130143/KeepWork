@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Harry Potter",
+    "age": 17,
+    "movie": "Harry Potter"
+  },
+  {
+    "id": 2,
+    "name": "Dominic Toretto",
+    "age": 40,
+    "movie": "The Fast"
+  },
+  {
+    "id": 3,
+    "name": "Perseus Jackson",
+    "age": 17,
+    "movie": "Percy Jackson"
+  },
+  {
+    "id": 4,
+    "name": "Pisitpong Narttammakul",
+    "age": 18,
+    "movie": "Dog"
+  },
+  {
+    "id": 5,
+    "name": " Barnes Naza",
+    "age": 26,
+    "movie": "Captain"
+  },
+  {
+    "id": 6,
+    "name": "Tao Naza",
+    "age": 17,
+    "movie": "Riverdata"
+  },
+  {
+    "id": 7,
+    "name": "Mafoy River",
+    "age": 18,
+    "movie": "Football"
+  },
+  {
+    "id": 8,
+    "name": "M k",
+    "age": 16,
+    "movie": "Mafia Spain"
+  },
+  {
+    "id": 9,
+    "name": "Newbie Bibi",
+    "age": 30,
+    "movie": "FantasticWorld"
+  },
+  {
+    "id": 10,
+    "name": "Rolgers Tao",
+    "age": 27,
+    "movie": "Captain Thailand"
+  }
+]
